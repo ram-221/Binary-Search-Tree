@@ -1,4 +1,4 @@
-package com.bridgelab.bstuc1;
+package com.bridgelab.bstuc2;
 
 public class MyBinaryNode<K extends Comparable <K> > {
 	K key;
